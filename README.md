@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Git and GitHub
 - 💬 Ask me about meditation, yoga, German and learning
 - 📫 How to reach me: mike.pool@pm.me
-- 😄 Pronouns: he or whatever your heart desires :D
+- 😄 Pronouns: he or whatever your heart desires 😀
 - ⚡ Fun fact: I had my first full cup of coffee in 2022 on a trip to Ecuador
 
 <!--
