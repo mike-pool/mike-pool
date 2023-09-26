@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on: becoming a software developer
 - 🌱 I’m currently learning: Git and GitHub
 - 💬 Ask me about: meditation, yoga, German and learning
-- 😄 Pronouns: he or whatever your heart desires 😀
 - ⚡ Fun fact: I had my first full cup of coffee in 2022 on a trip to Ecuador
 
 <!--
