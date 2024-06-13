@@ -1,6 +1,6 @@
 ### Why hello! 👋
 
-- 💬 Ask me about: meditation, yoga, German and learning
+- 💬 Ask me about: LabVIEW, German, learning meditation and yoga
 - ⚡ Fun fact: I had my first full cup of coffee in 2022 on a trip to Ecuador
 
 <!--
